@@ -13,7 +13,6 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/bbxx_lite.txt
 https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
-https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u
 https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
@@ -34,8 +33,7 @@ https://raw.githubusercontent.com/alantang1977/iptv_api/main/output/live_ipv4.tx
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://live.hacks.tools/tv/ipv4/categories/央视频道.txt
 
-
-
+# https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
